@@ -1,0 +1,8 @@
+/DEV/.qsys_edit/*
+/DEV/*
+!/DEV/*.qpf
+!/DEV/*.qsys
+!/DEV/output_files/*.pof
+!/DEV/output_files/*.sof
+/SIM/*
+!/SIM/source
